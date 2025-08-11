@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![GitHub Banner]https://github.com/souvik082003/souvik082003/blob/main/souvik%20github.png
+![GitHub Banner](https://github.com/souvik082003/souvik082003/blob/main/souvik%20github.png?raw=true)
+
 # Hi there, I'm Souvik Samanta 👋
 
 🎓 **B.Tech CSE Student** @ Manipal University Jaipur  

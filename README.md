@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="PASTE_YOUR_PHOTO_URL_HERE" alt="Souvik Samanta" width="200" style="border-radius:50%;"/>
+  <br/>
+
 # Hi there, I'm Souvik Samanta 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Problem+Solver;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs)](https://git.io/typing-svg)

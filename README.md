@@ -5,12 +5,10 @@
        width="1000" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#F7005F;">Souvik Samanta</span> 👋</h1>
+<h1 align="center">Hi there, I'm Souvik Samanta 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🚀+Problem+Solver;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🚀+Problem+Solver;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs" alt="Typing Animation" />
 </p>
 
 ---
@@ -62,4 +60,3 @@
 ---
 
 ⭐ From [Souvik Samanta](https://github.com/souvik082003)
-

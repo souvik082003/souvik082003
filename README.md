@@ -3,8 +3,7 @@
 
 # Hi there, I'm Souvik Samanta 👋
 
-🎓 **B.Tech CSE Student** @ Manipal University Jaipur  
-💻 Passionate about **Web Development**, **Databases**, and **Problem Solving**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Problem+Solver;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs)](https://git.io/typing-svg)
 
 ---
 

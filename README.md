@@ -38,8 +38,8 @@
 ### 💻 My Featured Projects
 
 <p align="center">
-  <a href="https://github.com/souvik082003/FinSnap-The-Finance-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=FinSnap-The-Finance-Tracker&theme=radical" />
+  <a href="https://github.com/souvik082003/tic-tac-toe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=tic-tac-toe&theme=radical" />
   </a>
   <a href="https://github.com/souvik082003/WeatherSurface">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=WeatherSurface&theme=radical" />

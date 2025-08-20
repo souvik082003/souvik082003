@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![GitHub Banner](https://github.com/souvik082003/souvik082003/blob/main/souvik%20github.png?raw=true)
+![GitHub Banner](https://github.com/souvik082003/souvik082003/blob/main/souvik_banner 1.png?raw=true)
 
 # Hi there, I'm Souvik Samanta 👋
 

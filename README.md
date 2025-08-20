@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="https://github.com/souvik082003/FinSnap-The-Finance-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=REPO_NAME_HERE&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=FinSnap-The-Finance-Tracker&theme=radical" />
   </a>
   <a href="https://github.com/souvik082003/WeatherSurface">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=REPO_NAME_HERE_2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=WeatherSurface&theme=radical" />
   </a>
 </p>
 

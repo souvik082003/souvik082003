@@ -35,6 +35,19 @@
 
 ---
 
+### 💻 My Featured Projects
+
+<p align="center">
+  <a href="https://github.com/souvik082003/FinSnap-The-Finance-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=REPO_NAME_HERE&theme=radical" />
+  </a>
+  <a href="https://github.com/souvik082003/WeatherSurface">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik082003&repo=REPO_NAME_HERE_2&theme=radical" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -56,9 +69,10 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 My Contribution Graph Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik082003&theme=radical&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github.com/souvik082003/souvik082003/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 ---

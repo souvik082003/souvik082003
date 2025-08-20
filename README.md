@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/souvik082003/souvik082003/refs/heads/main/souvik_banner%201.png" alt="GitHub Banner" width="1000"/>
+  <img src="https://raw.githubusercontent.com/souvik082003/souvik082003/refs/heads/main/souvik_banner%201.png" alt="GitHub Banner" width="800"/>
 </p>
 
 

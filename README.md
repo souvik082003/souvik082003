@@ -72,7 +72,7 @@
 ### 🐍 My Contribution Graph Snake
 
 <p align="center">
-  <img src="https://github.com/souvik082003/souvik082003/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://github.com/souvik082003/souvik082003/blob/output/github-snake.svg" alt="Snake Game"/>
 </p>
 
 ---

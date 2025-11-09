@@ -19,10 +19,11 @@
 ---
 
 ### 🛠️ My Tech Stack
+<div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,nodejs,express,mysql,git,github,vscode,unity" />
 </p>
-
+</div>
 
 ---
 

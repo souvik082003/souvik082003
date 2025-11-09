@@ -19,11 +19,11 @@
 ---
 
 ### 🛠️ My Tech Stack
-<div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,nodejs,express,mysql,git,github,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,nodejs,express,mysql,git,github,vscode,unity,cs" />
+  <img src="https://img.shields.io/badge/AR%20Foundation-Unity%20AR-blue?logo=unity&logoColor=white" />
 </p>
-</div>
+
 
 ---
 

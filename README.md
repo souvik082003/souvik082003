@@ -20,10 +20,9 @@
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,node js,express js,mysql,git,github,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,nodejs,express,mysql,git,github,vscode,unity" />
 </p>
 
-</div>
 
 ---
 

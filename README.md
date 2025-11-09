@@ -2,7 +2,7 @@
 
 # Hi there, I'm Souvik 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Problem+Solver;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Learning+UnityAR;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs)](https://git.io/typing-svg)
 
 ---
 
@@ -21,7 +21,6 @@
 ### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,react,nodejs,express,mysql,git,github,vscode,unity,cs" />
-  <img src="https://img.shields.io/badge/AR%20Foundation-Unity%20AR-blue?logo=unity&logoColor=white" />
 </p>
 
 

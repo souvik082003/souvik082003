@@ -1,9 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Souvik 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7005F&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Learning+UnityAR;🎓+B.Tech+CSE+Student;🌱+Learning+DSA+%26+OOPs)](https://git.io/typing-svg)
-
 ---
 
 ### 🤝 Connect With Me
@@ -24,16 +21,8 @@
 </p>
 
 
----
-
-### ✨ About Me
-- 🌱 I'm currently diving deep into **Data Structures & Algorithms (C++)** and **Object-Oriented Programming**.
-- 🌐 I have a solid foundation in **HTML, CSS, and JavaScript**, with database experience using **SQL**.
-- 💡 My passion lies in creating responsive, user-friendly applications that solve real-world problems.
-- 📚 I am a lifelong learner, continuously exploring new technologies and tools to improve my craft.
 
 ---
-
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">

@@ -1,6 +1,25 @@
 <div align="center">
 
 # Hi there, I'm Souvik 👋
+![Profile Views](https://komarev.com/ghpvc/?username=souvik082003&color=blue)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souvik082003&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik082003&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=souvik082003&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 🤝 Connect With Me

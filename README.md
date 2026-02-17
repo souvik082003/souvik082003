@@ -5,18 +5,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
+## ✨ Github Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souvik082003&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=souvik082003&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souvik082003&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=souvik082003&theme=tokyonight" height="170"/>
 </p>
 
 ---

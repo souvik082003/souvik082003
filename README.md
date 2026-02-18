@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Souvik 👋
-![Profile Views](https://komarev.com/ghpvc/?username=souvik082003&color=blue)
+
 
 ---
 

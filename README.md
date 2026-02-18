@@ -6,13 +6,7 @@
 ---
 
 ## ✨ Github Stats
-<table>
-<tr>
-<td>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souvik082003&show_icons=true&theme=tokyonight"/>
-
-</td>
 <td>
 
 <img src="https://streak-stats.demolab.com?user=souvik082003&theme=tokyonight"/>

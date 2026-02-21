@@ -77,5 +77,5 @@
 
 ⭐ From [Souvik Samanta](https://github.com/souvik082003)
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=souvik082003&label=Profile%20Views&color=0e75b6&style=flat" height="170"/>
+<img src="https://komarev.com/ghpvc/?username=souvik082003&label=Profile%20Views&color=red&style=flat" height="170"/>
 </p>

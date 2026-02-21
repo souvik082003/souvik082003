@@ -75,14 +75,6 @@
 
 ---
 
-### 🐍 My Contribution Graph Snake
-
-<p align="center">
-  <img src="https://github.com/souvik082003/souvik082003/blob/output/github-snake.svg" alt="Snake Game"/>
-</p>
-
----
-
 ⭐ From [Souvik Samanta](https://github.com/souvik082003)
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=souvik082003&label=Profile%20Views&color=0e75b6&style=flat" height="170"/>

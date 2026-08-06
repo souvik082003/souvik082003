@@ -1,21 +1,35 @@
 <div align="center">
 
-# Hi there, I'm Souvik 👋
+<h3><code>souvik082003@github ~ $ whoami</code></h3>
 
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=souvik082003&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=souvik082003&theme=github-dark&style=terminal&mode=dark" width="100%" alt="souvik082003 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=souvik082003&theme=github-dark&style=terminal&label=souvik+samanta&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=souvik082003&theme=github-dark&style=terminal&label=souvik+samanta&mode=dark" width="100%" alt="souvik082003 wordmark" />
+</picture></td>
+</tr>
+</table>
 
+<p><b>Open-source maintainer</b></p>
 
+<p><a href="https://github.com/souvik082003">GitHub</a> &nbsp;·&nbsp; <a href="https://souvikprotfolio.in">Website</a> &nbsp;·&nbsp; <a href="https://x.com/itssouvikdev">X</a></p>
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/souvik-samanta-660130211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:work03.souvik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<div align="center">
 
-⭐ From [Souvik Samanta](https://github.com/souvik082003)
+<h3><code>souvik082003@github ~ $ ./contributions.sh</code></h3>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=souvik082003&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=souvik082003&theme=github-dark&style=terminal&mode=dark" width="100%" alt="souvik082003 heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>souvik samanta · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

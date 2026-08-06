@@ -15,7 +15,7 @@
 </tr>
 </table>
 
-<p><b>Open-source maintainer</b></p>
+<p><b>Nothing Impossible</b></p>
 
 <p><a href="https://github.com/souvik082003">GitHub</a> &nbsp;·&nbsp; <a href="https://souvikprotfolio.in">Website</a> &nbsp;·&nbsp; <a href="https://x.com/itssouvikdev">X</a></p>
 
